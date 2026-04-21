@@ -35,6 +35,7 @@ function App() {
   return (
     <div>
       <h1>FoodFacts</h1>
+      <p>Food Search App</p>
 
       <SearchBar onSearch={handleSearch} />
 
